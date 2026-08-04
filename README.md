@@ -1,4 +1,4 @@
-# MiniMax-H3 on Nebius Serverless AI (SGLang)
+# MiniMax-H3 on Nebius Serverless AI 
 
 End-to-end deployment of [MiniMax-H3](https://huggingface.co/MiniMaxAI/MiniMax-H3) — a video-and-audio generation model — served with [SGLang Diffusion](https://docs.sglang.io/cookbook/diffusion/MiniMax/MiniMax-H3) on a single 8×B200 [Nebius Serverless AI endpoint](https://docs.nebius.com/serverless/).
 
